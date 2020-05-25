@@ -1,0 +1,4 @@
+config.sh
+quay-secret.yaml
+import.yaml
+endpoint-crd.yaml
